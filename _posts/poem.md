@@ -2,7 +2,7 @@
 title: "Shadows of Betrayal - Classical Poem no1-J25-MC"
 excerpt: "May thy storms rage fierce—thy skies remain gray"
 coverImage: "/assets/blog/dynamic-routing/poem-cover.jpeg"
-date: "2025-1-18T17:59:28.904163Z"
+date: "2025-01-18T17:59:28.904163Z"
 author:
     name: N Irfan
     picture: "/assets/blog/authors/irfan-e.jpg"
