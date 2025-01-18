@@ -1,6 +1,6 @@
 ---
-title: "Shadows of Betrayal. - Classical Poem no.1-J25-MC"
-excerpt: "May thy storms rage fierce—thy skies remain gray."
+title: "Shadows of Betrayal - Classical Poem no1-J25-MC"
+excerpt: "May thy storms rage fierce—thy skies remain gray"
 coverImage: "/assets/blog/dynamic-routing/poem-cover.jpeg"
 date: "2025-1-18T17:59:28.904163Z"
 author:
