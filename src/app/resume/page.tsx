@@ -10,21 +10,22 @@ const educationData = [
 	{
 		title: "Associate Degree in Accounting (Equivalent to Indonesia's D3 program)",
 		school: "Universitas Islam Sultan Agung",
-		year: "undergraduated",
+		year: "Expected Graduation 2027 (Ongoing)",
 		link: "https://unissula.ac.id",
 	},
 ];
 
 const experienceData = [
 	{
-		position: "Front End Internship",
-		company: "Gamelab.id",
-		companyLink: "https://gamelab.id",
-		period: "07/2022 - 10/2022",
+		position: "Front End Mentor",
+		company: "Crocodic Studio",
+		companyLink: "https://crocodic.com",
+		period: "09/2024 - 3/2025",
 		responsibilities: [
-			"Contributed to the development of responsive user interfaces for e-commerce platforms.",
-			"Improved user experience and ensured optimal usability across a wide range of devices and screen resolutions.",
-			"Designed and developed intuitive and attractive user interfaces for web applications.",
+			"Provided guidance on front-end development best practices and modern frameworks.",
+			"Reviewed and improved students' code to ensure maintainability and performance.",
+			"Mentored learners in responsive design, accessibility, and user experience principles.",
+			"Introduced industry-standard tools and workflows for efficient front-end development.",
 		],
 	},
 	{
@@ -36,6 +37,17 @@ const experienceData = [
 			"Performed regular maintenance and improvements for website functionality, including bug fixes and performance optimization.",
 			"Managed databases and ensured efficient integration between frontend and backend, including reliable API development.",
 			"Developed end-to-end web applications using Laravel, resulting in stable, scalable, and responsive applications.",
+		],
+	},
+	{
+		position: "Front End Internship",
+		company: "Gamelab.id",
+		companyLink: "https://gamelab.id",
+		period: "07/2022 - 10/2022",
+		responsibilities: [
+			"Contributed to the development of responsive user interfaces for e-commerce platforms.",
+			"Improved user experience and ensured optimal usability across a wide range of devices and screen resolutions.",
+			"Designed and developed intuitive and attractive user interfaces for web applications.",
 		],
 	},
 	{

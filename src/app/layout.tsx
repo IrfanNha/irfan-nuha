@@ -11,8 +11,8 @@ import { Navbar } from "./_components/navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: `Next.js Blog Example with ${CMS_NAME}`,
-	description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+	title: `Irfan Nuha`,
+	description: `Irfan Nuha - Personal Blog`,
 	openGraph: {
 		images: [HOME_OG_IMAGE_URL],
 	},
