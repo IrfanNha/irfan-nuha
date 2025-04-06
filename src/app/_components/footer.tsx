@@ -25,9 +25,9 @@ export function Footer() {
 							Contact Me
 						</a>
 						<a
-							href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+							href={`https://github.com/IrfanNha?tab=repositories`}
 							className="mx-3 font-bold hover:underline">
-							View My Projects
+							View My Works
 						</a>
 					</div>
 				</div>

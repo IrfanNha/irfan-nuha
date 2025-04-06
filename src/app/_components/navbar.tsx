@@ -34,9 +34,9 @@ export function Navbar() {
 							About
 						</a>
 						<a
-							href="/projects"
+							href="/myworks"
 							className=" text-black dark:text-white hover:text-gray-700 dark:hover:text-gray-300 font-medium transition-colors duration-200">
-							Projects
+							My Works
 						</a>
 						<a
 							href="/resume"
@@ -87,9 +87,9 @@ export function Navbar() {
 							About
 						</a>
 						<a
-							href="/home"
+							href="/myworks"
 							className="ml-6 text-black dark:text-white hover:text-gray-700 dark:hover:text-gray-300 font-medium transition-colors duration-200">
-							Projects
+							My Works
 						</a>
 						<a
 							href="/resume"
