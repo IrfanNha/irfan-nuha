@@ -2,7 +2,7 @@
 title: "Pikiran, Pertanyaan, Pencerahan."
 excerpt: "Semua orang tahu bahwa kita memiliki sesuatu dalam diri kita—entah itu baik, buruk, atau bahkan tergelap sekalipun. Kebiasaan buruk, keinginan yang tak terucap, dan makna-makna samar yang diam-diam membentuk siapa kita."
 coverImage: "/assets/blog/dynamic-routing/stars_cover.jpg"
-date: "2025-4-06T12:45:28.904163Z"
+date: "2025-4-6T12:45:28.904163Z"
 author:
     name: Irfan Nuha
     picture: "/assets/blog/authors/irfan.jpg"
